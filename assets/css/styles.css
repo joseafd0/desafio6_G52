@@ -1,0 +1,61 @@
+*{
+    margin: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    padding: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: #212529;
+}
+
+hr{
+    background-color: #30CEED;
+    height: 1px;
+    width: 50vw;
+    border: none;
+}
+
+.contenedor{
+    border-radius: 10px;
+    background-color: #6c757d;
+    width: 30vw;
+    height: 20vw;
+    justify-content: space-around;
+}
+
+button{
+    width: 200px;
+    height: 30px;
+    justify-content: center;
+    border-radius: 10px;
+    background-color: #30CDEC;
+    border: none;
+}
+
+input{
+    background-color: white;
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+    justify-content: center;
+    color: #6c757d;
+    align-items: center;
+    text-align: center;
+}
+
+select{
+    background-color: white;
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+    justify-content: center;
+    color: #6c757d;
+    align-items: center;
+    text-align: center;
+}
